@@ -12,6 +12,6 @@ pygame==1.9.4
 pylint==2.2.2
 requests==2.21.0
 six==1.12.0
-urllib3==1.24.1
+urllib3==1.26.5
 virtualenv==16.2.0
 wrapt==1.11.0
